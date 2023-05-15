@@ -1,0 +1,15 @@
+{
+  "name": "simple-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nghia",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.18.1",
+    "nodemon": "^2.0.22"
+  }
+}
